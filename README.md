@@ -22,3 +22,5 @@ Once you have installed Blox Fruit script, you can start using it to enhance you
 
 ## Contributing
 We actively encourage contributions from the Roblox community to help us improve Blox Fruit script. Whether you have suggestions, bug reports, or wish to contribute directly to the development of Blox Fruit script for Roblox, we welcome your input. Feel free to submit a pull request—your involvement is essential in making Blox Fruit script even better for all Roblox users!
+
+A
